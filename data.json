@@ -267,6 +267,42 @@
           "url": "https://codepen.io/pr0h0/details/ExBKRem"
         }
       ]
+    },
+    {
+      "title": "Create dynamic background using SVG in CSS",
+      "description": "Designing SVG backgrounds in CSS for websites",
+      "image": "/images/svgBackground.jpeg",
+      "tags": ["css", "svg", "background"],
+      "urls": [
+        {
+          "icon": "fab fa-instagram",
+          "url": "https://www.instagram.com/reel/C9t9ZzJt9Zb/"
+        },
+        {
+          "icon": "fab fa-facebook",
+          "url": "https://www.facebook.com/reel/1039832831050464"
+        },
+        {
+          "icon": "fab fa-threads",
+          "url": "https://www.threads.net/@hacky.js/post/C9s1u2rMuAe"
+        },
+        {
+          "icon": "fab fa-youtube",
+          "url": "https://www.youtube.com/shorts/2CO4o1wA5zA"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "url": "https://x.com/pr0h0_me/status/1815143730061685047"
+        },
+        {
+          "icon": "fab fa-tiktok",
+          "url": "https://www.tiktok.com/@hacky.js/video/7394207765293665542"
+        },
+        {
+          "icon": "fab fa-codepen",
+          "url": "https://codepen.io/pr0h0/pen/gONrJPe"
+        }
+      ]
     }
   ]
 }
