@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hacky JS</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/styles.css">
+    <style>
+        .video-card {
+            position: relative;
+            flex-direction: column;
+        }
+
+        .video-card .overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.7);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        .video-card:hover .overlay {
+            display: flex;
+        }
+
+        .video-card .overlay a {
+            margin: 5px;
+        }
+    </style>
+</head>
+
+<body class="text-gray-800">
+    <!-- Header -->
+    <header class="bg-gray-900 text-white p-4 flex justify-between items-center sticky top-0 z-40">
+        <div class="text-2xl font-bold">
+            <img src="/images/logo.jpeg" alt="logo" class="h-10 w-10 rounded-full">
+        </div>
+        <nav>
+            <ul class="flex space-x-4">
+                <li><a href="#hero" class="hover:text-yellow-500">Home</a></li>
+                <li><a href="#videos" class="hover:text-yellow-500">Videos</a></li>
+                <li><a href="#contact" class="hover:text-yellow-500">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="hero" class="text-center py-40 bg-yellow-400 text-gray-900 px-4">
+        <h1 class="text-4xl font-bold mb-4 uppercase">From senior to future senior developers</h1>
+    </section>
+    <div class="flex justify-center flex-wrap w-full bg-gray-900 text-yellow-400 gap-6 py-4 px-4">
+        <a href="https://www.facebook.com/hackyjs" class="text-yellow-400 hover:text-yellow-700"><i
+                class="fab fa-facebook fa-2x"></i></a>
+        <a href="https://www.instagram.com/hacky.js" class="text-yellow-400 hover:text-yellow-700"><i
+                class="fab fa-instagram fa-2x"></i></a>
+        <a href="https://www.threads.net/@hacky.js" class="text-yellow-400 hover:text-yellow-700"><i
+                class="fab fa-threads fa-2x"></i></a>
+        <a href="https://www.youtube.com/@HackyJS" class="text-yellow-400 hover:text-yellow-700"><i
+                class="fab fa-youtube fa-2x"></i></a>
+        <a href="https://x.com/pr0h0_me" class="text-yellow-400 hover:text-yellow-700"><i
+                class="fab fa-x-twitter fa-2x"></i></a>
+        <a href="https://www.tiktok.com/@hacky.js" class="text-yellow-400 hover:text-yellow-700"><i
+                class="fab fa-tiktok fa-2x"></i></a>
+        <a href="https://codepen.io/pr0h0" class="text-yellow-400 hover:text-yellow-700"><i
+                class="fab fa-codepen fa-2x"></i></a>
+        <a href="https://github.com/pr0h0" class="text-yellow-400 hover:text-yellow-700"><i
+                class="fab fa-github fa-2x"></i></a>
+    </div>
+
+    <!-- Videos Section -->
+    <section id="videos" class="py-20 bg-gray-100 max-h-screen overflow-auto">
+        <div class="container mx-auto">
+            <h2 class="text-3xl font-bold text-center mb-10">Latest Videos</h2>
+            <div id="video-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <!-- Video cards will be generated here by JavaScript -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Form -->
+    <section id="contact" class="py-20 bg-white px-4">
+        <div class="container mx-auto">
+            <h2 class="text-3xl font-bold text-center mb-10">Get in Touch</h2>
+            <form class="max-w-lg mx-auto" action="https://api.web3forms.com/submit" method="post">
+                <!-- Replace with your Access Key -->
+                <input type="hidden" name="access_key" value="463c160f-4a97-4abb-a35d-fd82a397bbed">
+                <input type="hidden" name="subject" value="New Submission from hackyjs.com">
+                <input type="hidden" name="from_name" value="Hacky JS">
+
+
+                <div class="mb-4">
+                    <label for="name" class="block text-gray-700 font-bold mb-2">Name</label>
+                    <input type="text" id="name" name="name" class="w-full p-3 border rounded" required>
+                </div>
+                <div class="mb-4">
+                    <label for="email" class="block text-gray-700 font-bold mb-2">Email</label>
+                    <input type="email" id="email" name="email" class="w-full p-3 border rounded" required>
+                </div>
+                <div class="mb-4">
+                    <label for="message" class="block text-gray-700 font-bold mb-2">Message</label>
+                    <textarea id="message" name="message" class="w-full p-3 border rounded" rows="5"
+                        required></textarea>
+                </div>
+                <!-- Honeypot Spam Protection -->
+                <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
+
+                <div class="h-captcha flex justify-center mb-4" data-captcha="true"></div>
+
+                <div class="text-center">
+                    <button type="submit" class="bg-yellow-500 text-gray-900 py-2 px-4 rounded">Submit</button>
+                </div>
+            </form>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900 text-white py-4">
+        <div class="container mx-auto text-center">
+            <div class="mb-4">
+                <a href="https://www.facebook.com/hackyjs" class="text-white mx-2"><i class="fab fa-facebook"></i></a>
+                <a href="https://www.instagram.com/hacky.js" class="text-white mx-2"><i
+                        class="fab fa-instagram"></i></a>
+                <a href="https://www.threads.net/@hacky.js" class="text-white mx-2"><i class="fab fa-threads"></i></a>
+                <a href="https://www.youtube.com/@HackyJS" class="text-white mx-2"><i class="fab fa-youtube"></i></a>
+                <a href="https://x.com/pr0h0_me" class="text-white mx-2"><i class="fab fa-x-twitter"></i></a>
+                <a href="https://www.tiktok.com/@hacky.js" class="text-white mx-2"><i class="fab fa-tiktok"></i></a>
+                <a href="https://codepen.io/pr0h0" class="text-white mx-2"><i class="fab fa-codepen"></i></a>
+                <a href="https://github.com/pr0h0" class="text-white mx-2"><i class="fab fa-github"></i></a>
+            </div>
+            <p>&copy; <span id="year"></span> HackyJs. All rights reserved.</p>
+        </div>
+    </footer>
+    <script>
+        {
+            const yearSpan = document.getElementById('year');
+            const year = new Date().getFullYear();
+            if (year !== 2024) {
+                yearSpan.textContent = `2024 - ${year}`;
+            } else {
+                yearSpan.textContent = year;
+            }
+        }
+
+        {
+            document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+                anchor.addEventListener('click', function (e) {
+                    e.preventDefault();
+
+                    document.querySelector(this.getAttribute('href'))?.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start',
+                        inline: 'nearest'
+                    });
+                });
+            });
+        }
+    </script>
+    <script src="/main.js"></script>
+    <script src="https://web3forms.com/client/script.js" async defer></script>
+</body>
+
+</html>

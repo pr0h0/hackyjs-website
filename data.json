@@ -1,0 +1,272 @@
+{
+  "videos": [
+    {
+      "title": "How do you break from inner loop",
+      "description": "Break from inner loop in JavaScript using labels",
+      "image": "/images/howDoYouBreakFromInnerLoop.jpeg",
+      "tags": ["loops", "label"],
+      "urls": [
+        {
+          "icon": "fab fa-facebook",
+          "url": "https://www.facebook.com/reel/479200971476853"
+        },
+        {
+          "icon": "fab fa-instagram",
+          "url": "https://www.instagram.com/reel/C9Jv5sPtauZ/"
+        },
+        {
+          "icon": "fab fa-threads",
+          "url": "https://www.threads.net/@hacky.js/post/C9rnQQpNgpQ"
+        },
+        {
+          "icon": "fab fa-youtube",
+          "url": "https://www.youtube.com/shorts/E7Qx5tX6qn8"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "url": "https://x.com/pr0h0_me/status/1810203969592930489"
+        },
+        {
+          "icon": "fab fa-tiktok",
+          "url": "https://www.tiktok.com/@hacky.js/video/7389018569536851206"
+        }
+      ]
+    },
+    {
+      "title": "Edit search parameters like a real senior",
+      "description": "Use URLSearchParams to edit search parameters in the URL",
+      "image": "/images/urlSearchParams.jpeg",
+      "tags": ["url", "search"],
+      "urls": [
+        {
+          "icon": "fab fa-instagram",
+          "url": "https://www.instagram.com/reel/C9LZ6umtbjG/"
+        },
+        {
+          "icon": "fab fa-youtube",
+          "url": "https://www.youtube.com/shorts/6ZABs37o4Vg"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "url": "https://x.com/pr0h0_me/status/1810439688311996837"
+        }
+      ]
+    },
+    {
+      "title": "Don't waste time assigning properties manually ",
+      "description": "Use Object.assign() or spread operator to assign properties to an object",
+      "image": "/images/objectAssign.jpeg",
+      "tags": ["objects", "spread"],
+      "urls": [
+        {
+          "icon": "fab fa-instagram",
+          "url": "https://www.instagram.com/reel/C9Nt77eNKjg/"
+        },
+        {
+          "icon": "fab fa-youtube",
+          "url": "https://www.youtube.com/shorts/ej78TKK4bN4"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "url": "https://x.com/pr0h0_me/status/1810764729952129481"
+        },
+        {
+          "icon": "fab fa-tiktok",
+          "url": "https://www.tiktok.com/@hacky.js/video/7389725874632854790"
+        }
+      ]
+    },
+    {
+      "title": "Define custom property on any class or object in javascript",
+      "description": "Use Object.defineProperty() to define custom property on any class or object in javascript",
+      "image": "/images/defineProperty.jpeg",
+      "tags": ["objects", "defineProperty"],
+      "urls": [
+        {
+          "icon": "fab fa-instagram",
+          "url": "https://www.instagram.com/reel/C9TKppXN9hh/"
+        },
+        {
+          "icon": "fab fa-youtube",
+          "url": "https://www.youtube.com/shorts/L-F5b7AF9Jc"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "url": "https://x.com/pr0h0_me/status/1811532425081823741"
+        },
+        {
+          "icon": "fab fa-tiktok",
+          "url": "https://www.tiktok.com/@hacky.js/video/7390512378577718533"
+        }
+      ]
+    },
+    {
+      "title": "Set CSS variables using Javascript #programming",
+      "description": "Set CSS variables from Javascript using documentElement.style.setProperty()",
+      "image": "/images/setProperty.jpeg",
+      "tags": ["css", "variables"],
+      "urls": [
+        {
+          "icon": "fab fa-instagram",
+          "url": "https://www.instagram.com/reel/C9aooiqNSf2/"
+        },
+        {
+          "icon": "fab fa-youtube",
+          "url": "https://www.youtube.com/shorts/ZXGmKozGeQo"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "url": "https://x.com/pr0h0_me/status/1812585251329458301"
+        },
+        {
+          "icon": "fab fa-tiktok",
+          "url": "https://www.tiktok.com/@hacky.js/video/7391589693889973509"
+        },
+        {
+          "icon": "fab fa-codepen",
+          "url": "https://codepen.io/pr0h0/details/XWLbLBw"
+        }
+      ]
+    },
+    {
+      "title": "Stop throwing generic error in javascript",
+      "description": "Throw error in javascript using custom error class and handle it properly",
+      "image": "/images/customErrors.jpeg",
+      "tags": ["errors", "custom"],
+      "urls": [
+        {
+          "icon": "fab fa-instagram",
+          "url": "https://www.instagram.com/reel/C9dXNyvt3y7/"
+        },
+        {
+          "icon": "fab fa-youtube",
+          "url": "https://www.youtube.com/shorts/UTy13-0SbRc"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "url": "https://x.com/pr0h0_me/status/1812968606457540780"
+        },
+        {
+          "icon": "fab fa-tiktok",
+          "url": "https://www.tiktok.com/@hacky.js/video/7391983658715974917"
+        }
+      ]
+    },
+    {
+      "title": "Do you know this setInterval hack in JS",
+      "description": "Use custom setInterval wrapper to make it more efficient and easy to use",
+      "image": "/images/setInterval.jpeg",
+      "tags": ["setInterval", "wrapper"],
+      "urls": [
+        {
+          "icon": "fab fa-instagram",
+          "url": "https://www.instagram.com/reel/C9g7_nftdW1/"
+        },
+        {
+          "icon": "fab fa-youtube",
+          "url": "https://www.youtube.com/shorts/V4jNgTlI2Ls"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "url": "https://x.com/pr0h0_me/status/1813469961798443381"
+        },
+        {
+          "icon": "fab fa-tiktok",
+          "url": "https://www.tiktok.com/@hacky.js/video/7392496726734671109"
+        }
+      ]
+    },
+    {
+      "title": "Learn the difference between basic and complex types",
+      "description": "Reference types and primitive types in JavaScript and how they are used",
+      "image": "/images/referenceTypes.jpeg",
+      "tags": ["reference", "primitive"],
+      "urls": [
+        {
+          "icon": "fab fa-instagram",
+          "url": "https://www.instagram.com/reel/C9iinZOtulI/"
+        },
+        {
+          "icon": "fab fa-youtube",
+          "url": "https://www.youtube.com/watch?v=Ye_hOyU_Pw8"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "url": "https://x.com/pr0h0_me/status/1813697865128321205"
+        },
+        {
+          "icon": "fab fa-tiktok",
+          "url": "https://www.tiktok.com/@hacky.js/video/7392726603958095109"
+        }
+      ]
+    },
+    {
+      "title": "Generate image from HTML code",
+      "description": "Generate image from HTML code using HTML2canvas and download it",
+      "image": "/images/html2canvas.jpeg",
+      "tags": ["html2canvas", "image"],
+      "urls": [
+        {
+          "icon": "fab fa-instagram",
+          "url": "https://www.instagram.com/reel/C9nRKVptU0G/"
+        },
+        {
+          "icon": "fab fa-facebook",
+          "url": "https://www.facebook.com/reel/1424207714954672"
+        },
+        {
+          "icon": "fab fa-youtube",
+          "url": "https://www.youtube.com/shorts/dIthyk3VPdU"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "url": "https://x.com/pr0h0_me/status/1814360309814940077"
+        },
+        {
+          "icon": "fab fa-tiktok",
+          "url": "https://www.tiktok.com/@hacky.js/video/7393608117402995974"
+        },
+        {
+          "icon": "fab fa-codepen",
+          "url": "https://codepen.io/pr0h0/details/WNqwGGM"
+        }
+      ]
+    },
+    {
+      "title": "Create custom event emitter or use HTML Element",
+      "description": "Create custom event emitter or reuse HTML Element to emit custom events",
+      "image": "/images/customEmitter.jpeg",
+      "tags": ["events", "emitter", "HTML"],
+      "urls": [
+        {
+          "icon": "fab fa-instagram",
+          "url": "https://www.instagram.com/reel/C9qfU9PtEuX/"
+        },
+        {
+          "icon": "fab fa-facebook",
+          "url": "https://www.facebook.com/reel/1286268109424431"
+        },
+        {
+          "icon": "fab fa-threads",
+          "url": "https://www.threads.net/@hacky.js/post/C9qipLkNrpP"
+        },
+        {
+          "icon": "fab fa-youtube",
+          "url": "https://www.youtube.com/shorts/AgDW5k9EJPE"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "url": "https://x.com/pr0h0_me/status/1814818203358363716"
+        },
+        {
+          "icon": "fab fa-tiktok",
+          "url": "https://www.tiktok.com/@hacky.js/video/7393875439585987846"
+        },
+        {
+          "icon": "fab fa-codepen",
+          "url": "https://codepen.io/pr0h0/details/ExBKRem"
+        }
+      ]
+    }
+  ]
+}
