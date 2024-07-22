@@ -8,33 +8,6 @@
   <link rel="icon" href="/favicon.ico" type="image/x-icon" />
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" rel="stylesheet" />
   <link rel="stylesheet" href="/styles.css" />
-  <style>
-    .video-card {
-      position: relative;
-      flex-direction: column;
-    }
-
-    .video-card .overlay {
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      background: rgba(0, 0, 0, 0.7);
-      display: none;
-      justify-content: center;
-      align-items: center;
-      flex-wrap: wrap;
-    }
-
-    .video-card:hover .overlay {
-      display: flex;
-    }
-
-    .video-card .overlay a {
-      margin: 5px;
-    }
-  </style>
 </head>
 
 <body class="text-gray-800">
@@ -86,49 +59,15 @@
   <!-- Videos Section -->
   <section id="videos" class="py-20 bg-gray-100">
     <div class="container mx-auto">
-      <h2 class="text-3xl font-bold text-center mb-10">Latest Videos</h2>
-      <div id="video-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      <h2 class="text-3xl font-bold text-center mb-10">All Videos</h2>
+      <form class="flex justify-center mb-8 px-4">
+        <input type="text" id="search" class="p-2 border border-gray-300 rounded-l-md w-full md:w-80"
+          placeholder="Search Videos" />
+        <button id="searchButton" class="bg-yellow-400 text-gray-900 p-2 rounded-r-md w-32 md:w-20">Search</button>
+      </form>
+      <div id="video-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 px-4">
         <!-- Video cards will be generated here by JavaScript -->
       </div>
-      <div class="w-full flex justify-center mt-8">
-        <a href="/videos.html" class="bg-yellow-400 text-gray-900 py-2 px-4 rounded shadow-lg">View All Videos</a>
-      </div>
-    </div>
-  </section>
-
-  <!-- Contact Form -->
-  <section id="contact" class="py-20 bg-white px-4">
-    <div class="container mx-auto">
-      <h2 class="text-3xl font-bold text-center mb-10">Get in Touch</h2>
-      <form class="max-w-lg mx-auto" action="https://api.web3forms.com/submit" method="post">
-        <!-- Replace with your Access Key -->
-        <input type="hidden" name="access_key" value="463c160f-4a97-4abb-a35d-fd82a397bbed" />
-        <input type="hidden" name="subject" value="New Submission from hackyjs.com" />
-        <input type="hidden" name="from_name" value="Hacky JS" />
-
-        <div class="mb-4">
-          <label for="name" class="block text-gray-700 font-bold mb-2">Name</label>
-          <input type="text" id="name" name="name" class="w-full p-3 border rounded" required />
-        </div>
-        <div class="mb-4">
-          <label for="email" class="block text-gray-700 font-bold mb-2">Email</label>
-          <input type="email" id="email" name="email" class="w-full p-3 border rounded" required />
-        </div>
-        <div class="mb-4">
-          <label for="message" class="block text-gray-700 font-bold mb-2">Message</label>
-          <textarea id="message" name="message" class="w-full p-3 border rounded" rows="5" required></textarea>
-        </div>
-        <!-- Honeypot Spam Protection -->
-        <input type="checkbox" name="botcheck" class="hidden" style="display: none" />
-
-        <div class="h-captcha flex justify-center mb-4" data-captcha="true"></div>
-
-        <div class="text-center">
-          <button type="submit" class="bg-yellow-400 text-gray-900 py-2 px-4 rounded">
-            Submit
-          </button>
-        </div>
-      </form>
     </div>
   </section>
 
@@ -179,7 +118,6 @@
     }
   </script>
   <script src="/main.js"></script>
-  <script src="https://web3forms.com/client/script.js" async defer></script>
 </body>
 
 </html>

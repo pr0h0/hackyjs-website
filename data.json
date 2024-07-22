@@ -305,8 +305,8 @@
       ]
     },
     {
-      "title": "",
-      "description": "",
+      "title": "JavaScript Console Tricks for Debugging",
+      "description": "Useful console tricks for debugging in JavaScript",
       "image": "/images/consoleTricks.jpeg",
       "tags": ["console", "log", "debugging"],
       "urls": [

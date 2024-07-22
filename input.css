@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+
+.video-card {
+  position: relative;
+  flex-direction: column;
+}
+
+.video-card .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.7);
+  display: none;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.video-card:hover .overlay {
+  display: flex;
+}
+
+.video-card .overlay a {
+  margin: 5px;
+}
