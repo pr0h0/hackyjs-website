@@ -371,6 +371,42 @@
           "url": "https://codepen.io/pr0h0/details/vYqKbvd"
         }
       ]
+    },
+    {
+      "title": "3 Easy ways to generate HTML element from Javascript",
+      "description": "Generate HTML tags from string, template and DOM in JavaScript",
+      "image": "/images/3wayhtmlfromstring.jpeg",
+      "tags": ["elements", "DOM", "HTML"],
+      "urls": [
+        {
+          "icon": "fab fa-instagram",
+          "url": "https://www.instagram.com/reel/C90gUMSAugM/"
+        },
+        {
+          "icon": "fab fa-facebook",
+          "url": "https://www.facebook.com/reel/340632232321078"
+        },
+        {
+          "icon": "fab fa-threads",
+          "url": "https://www.threads.net/@hacky.js/post/C90hZdCMNr8"
+        },
+        {
+          "icon": "fab fa-youtube",
+          "url": "https://youtube.com/shorts/qwg6_Cho43k?feature=share"
+        },
+        {
+          "icon": "fab fa-x-twitter",
+          "url": "https://x.com/pr0h0_me/status/1816225684509151731"
+        },
+        {
+          "icon": "fab fa-tiktok",
+          "url": "https://www.tiktok.com/@hacky.js/video/7395313583904591110"
+        },
+        {
+          "icon": "fab fa-codepen",
+          "url": "https://codepen.io/pr0h0/details/dyBpvYr"
+        }
+      ]
     }
   ]
 }
