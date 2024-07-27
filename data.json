@@ -407,6 +407,42 @@
           "url": "https://codepen.io/pr0h0/details/dyBpvYr"
         }
       ]
+    },
+    {
+      "title": "JSON.stringify Secrets: Circular Structures ",
+      "description": "Convert any JS Object into a string, even one with a circular structure without throwing an error",
+      "image": "/images/jsonCircular.jpeg",
+      "tags": ["JSON", "stringify", "circular"],
+      "urls": [
+        {
+          "icon": "fab fa-instagram",
+          "url": "https://www.instagram.com/p/C963YOCszvp/"
+        },
+        {
+          "icon": "fab fa-facebook",
+          "url": "https://www.facebook.com/reel/468747782630661"
+        },
+        {
+          "icon": "fab fa-threads",
+          "url": "https://www.threads.net/@hacky.js/post/C964WXVNUDH"
+        },
+        {
+          "icon": "fab fa-youtube",
+          "url": "https://youtube.com/shorts/L4m_nnKvl48"
+        },
+        {
+          "icon": "fab fa-x-twitter",
+          "url": "https://x.com/pr0h0_me/status/1817120287210557519"
+        },
+        {
+          "icon": "fab fa-tiktok",
+          "url": "https://www.tiktok.com/@hacky.js/video/7396230549699890438"
+        },
+        {
+          "icon": "fab fa-codepen",
+          "url": "https://codepen.io/pr0h0/details/BagQRXP"
+        }
+      ]
     }
   ]
 }
