@@ -443,6 +443,42 @@
           "url": "https://codepen.io/pr0h0/details/BagQRXP"
         }
       ]
+    },
+    {
+      "title": "Unlock the power of Set in JS",
+      "description": "Learn about the Set object in JavaScript and how to use it",
+      "image": "/images/newSet.png",
+      "tags": ["set", "javascript"],
+      "urls": [
+        {
+          "icon": "fab fa-instagram",
+          "url": "https://www.instagram.com/p/C9-_UC_NjLg/"
+        },
+        {
+          "icon": "fab fa-facebook",
+          "url": "https://www.facebook.com/reel/491923866758501"
+        },
+        {
+          "icon": "fab fa-threads",
+          "url": "https://www.threads.net/@hacky.js/post/C9_AVOrNsGR"
+        },
+        {
+          "icon": "fab fa-youtube",
+          "url": "https://youtu.be/sEMj2m080mU"
+        },
+        {
+          "icon": "fab fa-x-twitter",
+          "url": "https://x.com/pr0h0_me/status/1817700973600497918"
+        },
+        {
+          "icon": "fab fa-tiktok",
+          "url": "https://www.tiktok.com/@hacky.js/video/7396825492797754629"
+        },
+        {
+          "icon": "fab fa-codepen",
+          "url": "https://codepen.io/pr0h0/details/dyBOajX"
+        }
+      ]
     }
   ]
 }
