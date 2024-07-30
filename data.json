@@ -479,6 +479,78 @@
           "url": "https://codepen.io/pr0h0/details/dyBOajX"
         }
       ]
+    },
+    {
+      "title": "Create quote generator in 30 seconds",
+      "description": "Learn how to create a reusable quote generator in 30 seconds using JavaScript",
+      "image": "/images/quotegen.png",
+      "tags": ["quote", "generator", "javascript"],
+      "urls": [
+        {
+          "icon": "fab fa-instagram",
+          "url": "https://www.instagram.com/reel/C-Bb0nFuB0C/"
+        },
+        {
+          "icon": "fab fa-facebook",
+          "url": "https://www.facebook.com/reel/1955786191502284"
+        },
+        {
+          "icon": "fab fa-threads",
+          "url": "https://www.threads.net/@hacky.js/post/C-EBvVQx8B3"
+        },
+        {
+          "icon": "fab fa-youtube",
+          "url": "https://www.youtube.com/shorts/v0sEuuqZbiw"
+        },
+        {
+          "icon": "fab fa-x-twitter",
+          "url": "https://x.com/pr0h0_me/status/1818407076651290978"
+        },
+        {
+          "icon": "fab fa-tiktok",
+          "url": "https://www.tiktok.com/@hacky.js/video/7397178818194066694"
+        },
+        {
+          "icon": "fab fa-codepen",
+          "url": "https://codepen.io/pr0h0/details/PorWGoL"
+        }
+      ]
+    },
+    {
+      "title": "Promise hack in Javascript, optimise your code performance",
+      "description": "Optimise your code performance using Promise hack in JavaScript",
+      "image": "/images/promisehack.png",
+      "tags": ["promise", "javascript", "performance"],
+      "urls": [
+        {
+          "icon": "fab fa-instagram",
+          "url": "https://www.instagram.com/reel/C-ELKI8gO3O/"
+        },
+        {
+          "icon": "fab fa-facebook",
+          "url": "https://www.facebook.com/reel/966335681905323"
+        },
+        {
+          "icon": "fab fa-threads",
+          "url": "https://www.threads.net/@hacky.js/post/C-EM45HtMO3"
+        },
+        {
+          "icon": "fab fa-youtube",
+          "url": "https://youtu.be/vSWHAWzV_O0"
+        },
+        {
+          "icon": "fab fa-x-twitter",
+          "url": "https://x.com/pr0h0_me/status/1818431207266291988"
+        },
+        {
+          "icon": "fab fa-tiktok",
+          "url": "https://www.tiktok.com/@hacky.js/video/7397573271517957381"
+        },
+        {
+          "icon": "fab fa-codepen",
+          "url": "https://codepen.io/pr0h0/details/YzoNdzL"
+        }
+      ]
     }
   ]
 }
