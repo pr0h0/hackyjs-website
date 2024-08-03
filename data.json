@@ -640,7 +640,7 @@
         },
         {
           "icon": "fab fa-threads",
-          "url": "https://www.threads.net/@hacky.js/post/C-I_NvVsgkv"
+          "url": "https://www.threads.net/@hacky.js/post/C-LKinoRgjZ"
         },
         {
           "icon": "fab fa-youtube",
@@ -657,6 +657,42 @@
         {
           "icon": "fab fa-codepen",
           "url": "https://codepen.io/pr0h0/details/MWMmWez"
+        }
+      ]
+    },
+    {
+      "title": "Create stunning scroll-driven animations with a new browser feature using CSS only.",
+      "description": "Create amazing scroll animations using only CSS with a new browser feature!",
+      "image": "/images/svg-reveal.png",
+      "tags": ["css", "scroll driver", "animation"],
+      "urls": [
+        {
+          "icon": "fab fa-instagram",
+          "url": "https://www.instagram.com/p/C-OFDW-OpAN/"
+        },
+        {
+          "icon": "fab fa-facebook",
+          "url": "https://www.facebook.com/reel/1139431587358372"
+        },
+        {
+          "icon": "fab fa-threads",
+          "url": "https://www.threads.net/@hacky.js/post/C-OHZ4FgJXr"
+        },
+        {
+          "icon": "fab fa-youtube",
+          "url": "https://youtube.com/shorts/H4H-qYeit7s"
+        },
+        {
+          "icon": "fab fa-x-twitter",
+          "url": "https://x.com/pr0h0_me/status/1819827506494550224"
+        },
+        {
+          "icon": "fab fa-tiktok",
+          "url": "https://www.tiktok.com/@hacky.js/video/7399000359642926341"
+        },
+        {
+          "icon": "fab fa-codepen",
+          "url": "https://codepen.io/pr0h0/details/ZEdKyNg"
         }
       ]
     }
