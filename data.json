@@ -731,6 +731,42 @@
           "url": "https://codepen.io/pr0h0/details/JjQJGaJ"
         }
       ]
+    },
+    {
+      "title": "Master Array Manipulation in JavaScript!",
+      "description": "Learn array manipulation with push, pop, shift, and unshift methods with real examples",
+      "image": "/images/array-manipulation.png",
+      "tags": ["javascript", "array", "manipulation"],
+      "urls": [
+        {
+          "icon": "fab fa-tiktok",
+          "url": "https://www.tiktok.com/@hacky.js/video/7400119239773900037"
+        },
+        {
+          "icon": "fab fa-instagram",
+          "url": "https://www.instagram.com/reel/C-V1_ZqxsZ9/"
+        },
+        {
+          "icon": "fab fa-facebook",
+          "url": "https://www.facebook.com/reel/487781947207397"
+        },
+        {
+          "icon": "fab fa-youtube",
+          "url": "https://youtube.com/shorts/-HXaNes6weQ?feature=share"
+        },
+        {
+          "icon": "fab fa-x-twitter",
+          "url": "https://x.com/pr0h0_me/status/1820920718126686498"
+        },
+        {
+          "icon": "fab fa-threads",
+          "url": "https://www.threads.net/@hacky.js/post/C-V4i4osDbE"
+        },
+        {
+          "icon": "fab fa-codepen",
+          "url": "https://codepen.io/pr0h0/details/BagZPoL"
+        }
+      ]
     }
   ]
 }
