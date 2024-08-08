@@ -767,6 +767,42 @@
           "url": "https://codepen.io/pr0h0/details/BagZPoL"
         }
       ]
+    },
+    {
+      "title": "",
+      "description": "",
+      "image": "/images/html-modal.png",
+      "tags": ["html", "modal", "dialog"],
+      "urls": [
+        {
+          "icon": "fab fa-tiktok",
+          "url": "https://www.tiktok.com/@hacky.js/video/7400884319708794118"
+        },
+        {
+          "icon": "fab fa-instagram",
+          "url": "https://www.instagram.com/p/C-bJo9XNI7t/"
+        },
+        {
+          "icon": "fab fa-facebook",
+          "url": "https://www.facebook.com/reel/371210336008716"
+        },
+        {
+          "icon": "fab fa-youtube",
+          "url": "https://youtube.com/shorts/hgbocrb2XVY"
+        },
+        {
+          "icon": "fab fa-x-twitter",
+          "url": "https://x.com/pr0h0_me/status/1821663188842398199"
+        },
+        {
+          "icon": "fab fa-threads",
+          "url": "https://www.threads.net/@hacky.js/post/C-bKMg9AS3f"
+        },
+        {
+          "icon": "fab fa-codepen",
+          "url": "https://codepen.io/pr0h0/details/eYwEroN"
+        }
+      ]
     }
   ]
 }
