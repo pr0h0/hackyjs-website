@@ -769,8 +769,8 @@
       ]
     },
     {
-      "title": "",
-      "description": "",
+      "title": "Create a beautiful modal dialog using HTML",
+      "description": "Native HTML modal dialog ",
       "image": "/images/html-modal.png",
       "tags": ["html", "modal", "dialog"],
       "urls": [
@@ -801,6 +801,38 @@
         {
           "icon": "fab fa-codepen",
           "url": "https://codepen.io/pr0h0/details/eYwEroN"
+        }
+      ]
+    },
+    {
+      "title": "",
+      "description": "",
+      "image": "/images/css-4lines.png",
+      "tags": ["css", "reset", "normalize"],
+      "urls": [
+        {
+          "icon": "fab fa-tiktok",
+          "url": "https://www.tiktok.com/@hacky.js/video/7401823869608185093"
+        },
+        {
+          "icon": "fab fa-instagram",
+          "url": "https://www.instagram.com/reel/C-hrUdTscXz/"
+        },
+        {
+          "icon": "fab fa-facebook",
+          "url": "https://www.facebook.com/reel/1598523177544791"
+        },
+        {
+          "icon": "fab fa-youtube",
+          "url": "https://youtube.com/shorts/PdrP2jLjJLI"
+        },
+        {
+          "icon": "fab fa-x-twitter",
+          "url": "https://x.com/pr0h0_me/status/1822583386520596664"
+        },
+        {
+          "icon": "fab fa-threads",
+          "url": "https://www.threads.net/@hacky.js/post/C-hsvnoNQcM"
         }
       ]
     }
