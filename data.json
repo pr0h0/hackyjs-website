@@ -871,6 +871,42 @@
           "url": "https://codepen.io/pr0h0/details/VwJrLOd"
         }
       ]
+    },
+    {
+      "title": "Want to master Flexbox? Here are 3 tips that will take your layouts to the next level!",
+      "description": "Master Flexbox with these 3 tips, align-items, flex-grow, flex-shrink, and flex-wrap",
+      "image": "/images/3-flexbox-tips.png",
+      "tags": ["css", "flex", "layout"],
+      "urls": [
+        {
+          "icon": "fab fa-tiktok",
+          "url": "https://www.tiktok.com/@hacky.js/video/7402685488399797510"
+        },
+        {
+          "icon": "fab fa-instagram",
+          "url": "https://www.instagram.com/reel/C-npZ-YM3ef/"
+        },
+        {
+          "icon": "fab fa-facebook",
+          "url": "https://www.facebook.com/reel/1037335824661536"
+        },
+        {
+          "icon": "fab fa-youtube",
+          "url": "https://youtube.com/shorts/j6gxPBpDvFk"
+        },
+        {
+          "icon": "fab fa-x-twitter",
+          "url": "https://x.com/pr0h0_me/status/1823421747556692390"
+        },
+        {
+          "icon": "fab fa-threads",
+          "url": "https://www.threads.net/@hacky.js/post/C-nqFj1sbqQ"
+        },
+        {
+          "icon": "fab fa-codepen",
+          "url": "https://codepen.io/pr0h0/details/MWMOOQm"
+        }
+      ]
     }
   ]
 }
