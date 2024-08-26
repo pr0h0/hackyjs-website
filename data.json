@@ -979,6 +979,42 @@
           "url": "https://codepen.io/pr0h0/details/abgqBgN"
         }
       ]
+    },
+    {
+      "title": "Simple Steps to Improve Your Web App Efficiency!",
+      "description": "Optimize JavaScript Performance with Debouncing",
+      "image": "/images/debouncing.png",
+      "tags": ["javascript", "debouncing", "performance"],
+      "urls": [
+        {
+          "icon": "fab fa-tiktok",
+          "url": "https://www.tiktok.com/@hacky.js/video/7407545640907001093"
+        },
+        {
+          "icon": "fab fa-instagram",
+          "url": "https://www.instagram.com/reel/C_JXb3sOmEq/"
+        },
+        {
+          "icon": "fab fa-facebook",
+          "url": "https://www.facebook.com/hackyjs/videos/839987381446120"
+        },
+        {
+          "icon": "fab fa-youtube",
+          "url": "https://youtube.com/shorts/0lYhjuOaPkQ"
+        },
+        {
+          "icon": "fab fa-x-twitter",
+          "url": "https://x.com/pr0h0_me/status/1828171030860628130"
+        },
+        {
+          "icon": "fab fa-threads",
+          "url": "https://www.threads.net/@hacky.js/post/C_JZku_u3dh"
+        },
+        {
+          "icon": "fab fa-codepen",
+          "url": "https://codepen.io/pr0h0/details/WNqyXpz"
+        }
+      ]
     }
   ]
 }
