@@ -981,38 +981,34 @@
       ]
     },
     {
-      "title": "Simple Steps to Improve Your Web App Efficiency!",
-      "description": "Optimize JavaScript Performance with Debouncing",
-      "image": "/images/debouncing.png",
-      "tags": ["javascript", "debouncing", "performance"],
+      "title": "HackerRank Time Conversion challenge SOLVED",
+      "description": "Let's solve hackerrank.com challenges together!",
+      "image": "/images/hr-c-am-pm.jpeg",
+      "tags": ["javascript", "hackerrank", "challenge"],
       "urls": [
         {
           "icon": "fab fa-tiktok",
-          "url": "https://www.tiktok.com/@hacky.js/video/7407545640907001093"
+          "url": "https://www.tiktok.com/@hacky.js/video/7409021340419689734"
         },
         {
           "icon": "fab fa-instagram",
-          "url": "https://www.instagram.com/reel/C_JXb3sOmEq/"
+          "url": "https://www.instagram.com/p/C_Tmw2HOl-l/"
         },
         {
           "icon": "fab fa-facebook",
-          "url": "https://www.facebook.com/hackyjs/videos/839987381446120"
+          "url": "https://www.facebook.com/hackyjs/videos/1012420794003447"
         },
         {
           "icon": "fab fa-youtube",
-          "url": "https://youtube.com/shorts/0lYhjuOaPkQ"
+          "url": "https://youtu.be/G3KWCZOkOG0"
         },
         {
           "icon": "fab fa-x-twitter",
-          "url": "https://x.com/pr0h0_me/status/1828171030860628130"
+          "url": "https://x.com/pr0h0_me/status/1829609578889429134"
         },
         {
           "icon": "fab fa-threads",
-          "url": "https://www.threads.net/@hacky.js/post/C_JZku_u3dh"
-        },
-        {
-          "icon": "fab fa-codepen",
-          "url": "https://codepen.io/pr0h0/details/WNqyXpz"
+          "url": "https://www.threads.net/@hacky.js/post/C_ToIldNUYU?hl=en"
         }
       ]
     }
